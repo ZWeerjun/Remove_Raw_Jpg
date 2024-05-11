@@ -88,3 +88,4 @@ class PhotoDeleterApp:
 root = tk.Tk()
 app = PhotoDeleterApp(root)
 root.mainloop()
+
